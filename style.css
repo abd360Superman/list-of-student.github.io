@@ -1,0 +1,26 @@
+#studentHeader {
+    margin-top:20px;
+    margin-bottom:20px;
+    color:khaki;
+}
+#displayName {
+    font-weight:bold;
+}
+#submitBTN {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color:honeydew;
+}
+#sortBTN {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color:honeydew;
+}
+input {
+    margin: 10px;
+    background-color:khaki;
+}
+body {
+    background-color:limegreen;
+}
